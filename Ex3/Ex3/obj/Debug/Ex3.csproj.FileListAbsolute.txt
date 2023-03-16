@@ -1,0 +1,11 @@
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\bin\Debug\Ex3.exe.config
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\bin\Debug\Ex3.exe
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\bin\Debug\Ex3.pdb
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.csproj.SuggestedBindingRedirects.cache
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.Form1.resources
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.Properties.Resources.resources
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.csproj.GenerateResource.cache
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.exe
+H:\POO\ExerciciosCsharp_1\Ex3\Ex3\obj\Debug\Ex3.pdb
