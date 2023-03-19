@@ -1,0 +1,11 @@
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.Form1.resources
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\Siri\Desktop\AtividadeC#\Ex4\Ex4\obj\Debug\Ex4.pdb
