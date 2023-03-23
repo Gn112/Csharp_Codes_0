@@ -1,0 +1,11 @@
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.csproj.AssemblyReference.cache
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.csproj.SuggestedBindingRedirects.cache
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.Form1.resources
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.Properties.Resources.resources
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.csproj.GenerateResource.cache
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.csproj.CoreCompileInputs.cache
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\bin\Debug\Ex4Pag15.exe.config
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\bin\Debug\Ex4Pag15.exe
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\bin\Debug\Ex4Pag15.pdb
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.exe
+H:\POO\Csharp_Codes_0\Pag15\Ex4Pag15\Ex4Pag15\obj\Debug\Ex4Pag15.pdb
